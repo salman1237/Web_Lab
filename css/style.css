@@ -1,0 +1,65 @@
+
+.test
+		{
+			border: 2px dotted red;
+			background-color: yellow;
+			text-align: center;
+            margin-top: auto;
+		}
+        #test
+        {
+            margin-top: 20px;
+            background-color: bisque;
+            padding: 10px;
+        }
+h1 {
+    border: 2px solid blue; 
+    color: brown; text-align: center; 
+    border-radius: 100px
+}
+a:link
+{
+    color: brown;
+    text-decoration: none;
+}
+a:visited
+{
+    color:tomato;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover
+{
+    color: blueviolet;
+    background-color: bisque;
+    text-decoration: underline;
+}
+table,td,th
+{
+    color: blueviolet;
+    border: 1px dotted red;
+    text-align: center;
+}
+li{
+    float: left;
+    padding-left: 10px;
+    list-style-type: none;
+}
+.changer >p
+{
+    background-color: cadetblue;
+}
+#changer_info
+{
+    text-align: center;
+}
+.ppp
+{
+    width: 50%;
+}
+.tt{
+    background-image: url(/images/pexels-artūras-kokorevas-15521615.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
